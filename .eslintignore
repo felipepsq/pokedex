@@ -1,0 +1,5 @@
+.eslintrc.js
+client/**/*.js
+server/**/*.js
+node_modules
+build
